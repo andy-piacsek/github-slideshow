@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Penguins are on the lookout.
 Use the left arrow to go back!
